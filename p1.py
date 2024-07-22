@@ -12,4 +12,4 @@ if (t>0):
     sec=t
     print(hr,"hr",min,"min",sec,"sec")
 else :
-    print("thik time de na bhai")    
+    print("Error")    
